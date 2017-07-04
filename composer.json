@@ -1,0 +1,19 @@
+{
+  "name"       : "beapi/wp-add-custom-css-cache",
+  "description": "Add a file cache on WP add Custom CSS plugin(https://wordpress.org/plugins/wp-add-custom-css/)",
+  "homepage"   : "https://github.com/BeAPI/wp-add-custom-css-cache",
+  "type"       : "wordpress-plugin",
+  "license"    : "GPL-3.0+",
+  "authors"    : [
+    {
+      "name"    : "Beapi",
+      "homepage"    : "technique@beapi.fr"
+    },
+    {
+      "name"    : "Nicolas Kulka"
+    }
+  ],
+  "require": {
+    "composer/installers": "~1.0"
+  }
+}
